@@ -1,0 +1,1 @@
+-- creating the tables in a database and viewing all the tables in a database
